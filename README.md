@@ -1,7 +1,7 @@
 This repository contains a single .py file that contains 5 basic sorting techniques
 
 ## Bubble Sort : (In place - sorting)
-Best case : O(n)
+Best case : O(n) <br>
 Worst case : O(n^2)
 Inefficient for Large Datasets.
 Bubble sort is three times slower than QuickSort for n = 100
